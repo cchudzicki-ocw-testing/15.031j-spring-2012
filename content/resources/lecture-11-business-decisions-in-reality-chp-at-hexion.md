@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Business Decisions in Reality: CHP at Hexion (PDF)](resources/mit15_031js12_lec11)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 11: Business Decisions in Reality: CHP at Hexion'
 uid: a234be4e-6f19-f1de-2a0d-317881df503e

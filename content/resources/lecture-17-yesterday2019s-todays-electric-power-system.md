@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[(Yesterday''s &) Today''s Electric Power System (PDF)](resources/mit15_031js12_lec17)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: "Lecture 17: (Yesterday\u2019s &) Today's Electric Power System"
 uid: 585b2fd5-1765-7325-82e3-45eb2fc4c9aa

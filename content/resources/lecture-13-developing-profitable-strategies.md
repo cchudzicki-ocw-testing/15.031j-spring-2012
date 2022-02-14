@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Developing Profitable Strategies (PDF)](resources/mit15_031js12_lec13)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 13: Developing Profitable Strategies'
 uid: 97c6a1b7-2b0f-6545-09bd-c445835e9272

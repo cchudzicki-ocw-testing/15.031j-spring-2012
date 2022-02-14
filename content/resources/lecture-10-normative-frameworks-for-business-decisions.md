@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Normative Frameworks for Business Decisions (PDF)](resources/mit15_031js12_lec10)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 10: Normative Frameworks for Business Decisions'
 uid: 5495bf84-43e6-f718-9a78-0547d1fedeee

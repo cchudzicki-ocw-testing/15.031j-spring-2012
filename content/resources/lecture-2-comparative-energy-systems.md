@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Comparative Energy Systems (PDF - 2.6MB)](resources/mit15_031js12_lec2)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 2: Comparative Energy Systems'
 uid: cfebb022-2d59-12d0-aaba-8d35bb43ba82

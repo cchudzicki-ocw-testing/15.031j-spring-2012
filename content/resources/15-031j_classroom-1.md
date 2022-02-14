@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 15-031J_classroom-1.jpg
+type: OCWImage
 uid: 78143549-1806-621e-a69c-371d24312945
 ---

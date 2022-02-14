@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Non-Renewable Energy Resources (PDF - 5.9MB)](resources/mit15_031js12_lec15)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 15: Non-Renewable Energy Resources'
 uid: a726da1a-1989-ee96-0a6b-41606bd5f443

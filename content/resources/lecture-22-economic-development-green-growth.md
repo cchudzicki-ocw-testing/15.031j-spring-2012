@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: Lecture Slides
+optional_text: '[Economic Development & Green Growth (PDF)](resources/mit15_031js12_lec22)'
+parent_title: Video Lectures
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 22: Economic Development & Green Growth'
 uid: 5ae75afb-33a7-93a8-bc4e-5f5406527cca
