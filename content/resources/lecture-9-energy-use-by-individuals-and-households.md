@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Energy Use by Individuals and Households (PDF)](resources/mit15_031js12_lec9)
   (Courtesy of Susan Silbey. Used with permission.)'

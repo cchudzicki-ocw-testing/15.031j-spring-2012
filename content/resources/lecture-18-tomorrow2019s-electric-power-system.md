@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Tomorrow''s Electric Power System (PDF - 1.9MB)](resources/mit15_031js12_lec18)'
 parent_title: Video Lectures

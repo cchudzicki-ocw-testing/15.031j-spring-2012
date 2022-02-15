@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[This
   Course and The U.S. Energy System (PDF)](resources/mit15_031js12_lec1)'

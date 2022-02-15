@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[U.S. Energy Problems (PDF)](resources/mit15_031js12_lec3)'
 parent_title: Video Lectures

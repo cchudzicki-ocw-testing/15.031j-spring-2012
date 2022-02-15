@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Non-Renewable Energy Resources (PDF - 5.9MB)](resources/mit15_031js12_lec15)'
 parent_title: Video Lectures

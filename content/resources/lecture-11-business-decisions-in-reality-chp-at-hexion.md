@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Business Decisions in Reality: CHP at Hexion (PDF)](resources/mit15_031js12_lec11)'
 parent_title: Video Lectures

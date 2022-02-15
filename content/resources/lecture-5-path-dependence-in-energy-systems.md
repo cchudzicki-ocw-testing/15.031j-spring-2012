@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Path Dependence in Energy Systems (PDF)](resources/mit15_031js12_lec5)'
 parent_title: Video Lectures

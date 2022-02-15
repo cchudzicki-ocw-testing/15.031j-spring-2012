@@ -4,6 +4,7 @@ description: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '[Normative Frameworks for Business Decisions (PDF)](resources/mit15_031js12_lec10)'
 parent_title: Video Lectures
