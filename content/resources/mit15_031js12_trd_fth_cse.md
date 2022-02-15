@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 19 Reading: Trading Filth Case'
-type: OCWFile
 uid: 822db6ba-4ff3-8483-2533-c82cf88f0e36
 ---

@@ -10,6 +10,5 @@ parent_title: Recitations
 parent_type: CourseSection
 resourcetype: Document
 title: 'Recitation 5: Problems'
-type: OCWFile
 uid: db744fa6-e7cc-d841-c795-3dad7f3d0274
 ---

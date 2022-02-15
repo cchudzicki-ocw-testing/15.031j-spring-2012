@@ -12,6 +12,5 @@ parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: 15-031J_classroom-2.jpg
-type: OCWImage
 uid: 9ddb3b01-3888-a1de-4530-aafcce9615fc
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 12 Reading: Biodiesel@MIT Case'
-type: OCWFile
 uid: d2bdd05b-2542-d441-65af-ee4e31c02fb0
 ---

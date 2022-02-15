@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 8 Reading: Economics of Energy Demand'
-type: OCWFile
 uid: 1513e125-5829-f618-71c7-c89e8f604209
 ---

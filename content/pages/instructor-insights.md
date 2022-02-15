@@ -3,7 +3,6 @@ content_type: page
 layout: instructor_insights
 learning_resource_types: []
 title: Instructor Insights
-type: ThisCourseAtMITSection
 uid: 82d00a64-0fda-357e-e8bb-d13dc6e1fab4
 ---
 

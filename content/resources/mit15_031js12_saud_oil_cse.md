@@ -10,6 +10,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 3 Reading: Saudi Oil Case'
-type: OCWFile
 uid: 49e133ed-c10a-68b5-66c7-d05c31124d79
 ---

@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 4 Reading: Debate Preparation'
-type: OCWFile
 uid: feb474b7-4615-2893-51d6-c0eb64f4c331
 ---

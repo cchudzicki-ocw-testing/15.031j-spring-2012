@@ -9,6 +9,5 @@ parent_title: Readings
 parent_type: CourseSection
 resourcetype: Document
 title: 'Lecture 13 Reading: Husky Case Discussion Questions'
-type: OCWFile
 uid: 9127d839-8da2-ac9e-2bfd-2cb41c0ad636
 ---
