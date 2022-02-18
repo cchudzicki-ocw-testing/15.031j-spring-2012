@@ -36,7 +36,7 @@ _Below, Professor Richard Schmalensee describes various aspects of how he taught
 
 _15.031J Energy Decisions, Markets, and Policies_ was normally taught by a team of instructors (the single-instructor format that was recorded for publication on OCW was atypical). Our team worked together on all aspects of designing the course—from curating the reading list to developing the details of the assignments. With the exception of the Spring 2012 offering of the course, we were all in the classroom during each class session. This led to engaging discussions between instructors and interjections that allowed students to see different ways of approaching the issues at the center of our curriculum. Students valued this opportunity.
 
-As a team, we also emphasized class discussion and interaction to a greater degree than most undergraduate courses because we were accustomed to teaching MIT Sloan MBA students. In fact, two of our pedagogical decisions were specifically designed to engage students in learning from each other. For example, we created the [team paper assignment]({{< baseurl >}}/pages/assignments) to give students an opportunity to work collaboratively while delving more deeply into a topic of interest. We also included oral presentations of the final team papers to create opportunities for students to learn from (and to be critical of) the work of their colleagues.
+As a team, we also emphasized class discussion and interaction to a greater degree than most undergraduate courses because we were accustomed to teaching MIT Sloan MBA students. In fact, two of our pedagogical decisions were specifically designed to engage students in learning from each other. For example, we created the {{< resource_link 1214112e-4a9f-8999-f3c3-14dc35cfad46 "team paper assignment" >}} to give students an opportunity to work collaboratively while delving more deeply into a topic of interest. We also included oral presentations of the final team papers to create opportunities for students to learn from (and to be critical of) the work of their colleagues.
 
 Curriculum Information
 ----------------------
@@ -68,7 +68,7 @@ The students' grades were based on the following activities:
 Student Information
 -------------------
 
-![On average, 60 students take this course each time it is offered.]({{< resource_file 6b86c85e-3318-14b5-e3b7-ebd4ad54aa2a >}})
+{{< resource 6b86c85e-3318-14b5-e3b7-ebd4ad54aa2a >}}
 
 ### Breakdown by Year
 
