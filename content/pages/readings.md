@@ -97,7 +97,7 @@ U.S. Energy Problems
 
 ### Case
 
-{{< resource_link 49e133ed-c10a-68b5-66c7-d05c31124d79 "Why Not Use American Coal Instead of Saudi Oil? (PDF)" >}}
+{{% resource_link 49e133ed-c10a-68b5-66c7-d05c31124d79 "Why Not Use American Coal Instead of Saudi Oil? (PDF)" %}}
 
 ### Required Readings
 
@@ -131,7 +131,7 @@ The Market and The State
 
 Mason, Alpheus Thomas, and William M. Beaney. "Carter v Carter Coal, 298 U.S. 238 (1936)." In _American Constitutional Law: Introductory Essays and Selected Cases_. Prentice Hall, 2004, pp. 290–6. ISBN: 9780131174375.
 
-{{< resource_link feb474b7-4615-2893-51d6-c0eb64f4c331 "Debate Preparation (PDF)" >}} (Courtesy of Susan Silbey. Used with permission.)
+{{% resource_link feb474b7-4615-2893-51d6-c0eb64f4c331 "Debate Preparation (PDF)" %}} (Courtesy of Susan Silbey. Used with permission.)
 
 [Selected Arguments of Antifederalists (1780s)](http://www.pinzler.com/ushistory/argantfedsupp.html)
 
@@ -255,7 +255,7 @@ Economics of Energy Demand
 
 ### Required Readings
 
-{{< resource_link 1513e125-5829-f618-71c7-c89e8f604209 "_Note on the Economics of Energy Demand,_ Teaching Note (PDF)" >}}
+{{% resource_link 1513e125-5829-f618-71c7-c89e8f604209 "_Note on the Economics of Energy Demand,_ Teaching Note (PDF)" %}}
 
 McKinsey & Company. "[Executive Summary](http://www.mckinsey.com/client_service/electric_power_and_natural_gas/latest_thinking/unlocking_energy_efficiency_in_the_us_economy)." _Unlocking Energy Efficiency in the U.S. Economy_ (2009).
 
@@ -355,7 +355,7 @@ Organizational Decision-Making: Biodiesel at MIT
 
 ### Case
 
-{{< resource_link d2bdd05b-2542-d441-65af-ee4e31c02fb0 "Biodiesel@MIT (PDF)" >}} (Courtesy of Susan Silbey. Used with permission.)
+{{% resource_link d2bdd05b-2542-d441-65af-ee4e31c02fb0 "Biodiesel@MIT (PDF)" %}} (Courtesy of Susan Silbey. Used with permission.)
 
 ### Required Readings
 
@@ -387,7 +387,7 @@ Developing Profitable Strategies
 
 Rivkin, Jan W. "Husky Injection Molding Systems." Harvard Business School Case. Harvard Business School Publishing. Case: 799157-PDF-ENG, May 14, 1999.
 
-{{< resource_link 9127d839-8da2-ac9e-2bfd-2cb41c0ad636 "Husky Case Discussion Questions (PDF)" >}}
+{{% resource_link 9127d839-8da2-ac9e-2bfd-2cb41c0ad636 "Husky Case Discussion Questions (PDF)" %}}
 
 ### Required Readings
 
@@ -553,7 +553,7 @@ Making Public Policy
 
 ### Case
 
-{{< resource_link 822db6ba-4ff3-8483-2533-c82cf88f0e36 "Clean Coal/ Dirty Air/ Trading Filth (A) (PDF)" >}}
+{{% resource_link 822db6ba-4ff3-8483-2533-c82cf88f0e36 "Clean Coal/ Dirty Air/ Trading Filth (A) (PDF)" %}}
 
 (Focus on Questions 1 & 2)
 
@@ -611,7 +611,7 @@ U.S. Environment Policy
 
 ### Case
 
-{{< resource_link 822db6ba-4ff3-8483-2533-c82cf88f0e36 "Clean Coal/ Dirty Air/ Trading Filth (A) (PDF)" >}}
+{{% resource_link 822db6ba-4ff3-8483-2533-c82cf88f0e36 "Clean Coal/ Dirty Air/ Trading Filth (A) (PDF)" %}}
 
 (Focus on Questions 3 & 4)
 
