@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Non-Renewable Energy Resources (PDF - 5.9MB)](resources/mit15_031js12_lec15)'
+optional_text: '[Non-Renewable Energy Resources (PDF - 5.9MB)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec15)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''

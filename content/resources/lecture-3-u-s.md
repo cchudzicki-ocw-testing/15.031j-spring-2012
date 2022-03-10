@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[U.S. Energy Problems (PDF)](resources/mit15_031js12_lec3)'
+optional_text: '[U.S. Energy Problems (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec3)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''

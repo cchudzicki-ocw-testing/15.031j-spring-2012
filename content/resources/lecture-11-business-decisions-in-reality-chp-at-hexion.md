@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Business Decisions in Reality: CHP at Hexion (PDF)](resources/mit15_031js12_lec11)'
+optional_text: '[Business Decisions in Reality: CHP at Hexion (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec11)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''

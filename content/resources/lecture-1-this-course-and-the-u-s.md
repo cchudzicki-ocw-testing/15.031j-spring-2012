@@ -7,7 +7,7 @@ learning_resource_types:
 ocw_type: ''
 optional_tab_title: Lecture Slides
 optional_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[This
-  Course and The U.S. Energy System (PDF)](resources/mit15_031js12_lec1)'
+  Course and The U.S. Energy System (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec1)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
