@@ -24,9 +24,7 @@ TOPICS
 {{< thclose >}}{{< thopen >}}
 READINGS
 {{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-
-## **Energy Systems and Policies: Overview**
-
+**Energy Systems and Policies: Overview**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 1
 {{< tdclose >}}{{< tdopen >}}
@@ -128,9 +126,7 @@ Unruh, G. C. ![This resource may not render correctly in a screen reader.](/imag
 Mahoney, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Path Dependence in Historical Sociology." (PDF)](http://webarchiv.ethz.ch/soms/teaching/OppFall09/MahoneyPathDependence.pdf) _Theory and Society_ 29, no. 4 (2000): 507–48.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-
-## **The Climate Problem**
-
+**The Climate Problem**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
 {{< tdclose >}}{{< tdopen >}}
@@ -168,9 +164,7 @@ Climate Agreement Negotiations I & II
 At the site, you can freely access all of the materials needed to play and facilitate the World Climate simulation, including the models, facilitator guides, the negotiation documents, and other materials. Other simulations, animations, and tools recommended, but not required, can be found at [Climate Interactive](http://climateinteractive.org/).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-
-## **Household and Organization Decision-Making**
-
+**Household and Organization Decision-Making**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8
 {{< tdclose >}}{{< tdopen >}}
@@ -296,9 +290,7 @@ Roberts, E., and W. Liu. "[Ally or Acquire? How Technology Leaders Decide](http:
 Munir, K., and N. Phillips. "[The Concept of Industry and the Case of Radical Technological Change](http://dx.doi.org/10.1016/S1047-8310(02)00046-9)." _The Journal of High Technology Management Research_ 13, no. 2 (2002): 279–97.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-
-## **Primary Energy & Electric Power**
-
+**Primary Energy & Electric Power**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
 {{< tdclose >}}{{< tdopen >}}
@@ -374,9 +366,7 @@ Joskow, P. L. ![This resource may not render correctly in a screen reader.](/ima
 Chapter 2–9 in \[M\].
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-
-## **Public Policies: Determinants & Processes**
-
+**Public Policies: Determinants & Processes**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
 {{< tdclose >}}{{< tdopen >}}
@@ -460,9 +450,7 @@ UN Environment Program. ["Towards a Green Economy."](http://all62.jp/ecoacademy/
 Hogan, D., M. Kapur, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Rural Electrification in India: The Solar Energy Opportunity." (PDF)](http://www.eprg.group.cam.ac.uk/wp-content/uploads/2008/11/eprg0730.pdf) Class report, 15.220, Fall 2009.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="3" >}}
-
-## **Final Paper Presentations & Debrief**
-
+**Final Paper Presentations & Debrief**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 23
 {{< tdclose >}}{{< tdopen >}}
