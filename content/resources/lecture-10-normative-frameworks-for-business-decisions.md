@@ -6,7 +6,7 @@ learning_resource_types:
 - Lecture Videos
 ocw_type: ''
 optional_tab_title: Lecture Slides
-optional_text: '[Normative Frameworks for Business Decisions (PDF)](resources/mit15_031js12_lec10)'
+optional_text: '[Normative Frameworks for Business Decisions (PDF)](/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/resources/mit15_031js12_lec10)'
 parent_title: Video Lectures
 parent_type: CourseSection
 related_resources_text: ''
