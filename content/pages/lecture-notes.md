@@ -31,7 +31,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 4b1303fa-77b4-d6d1-6a05-21539977e4a7 "This Course and The U.S. Energy System (PDF)" %}}
+{{% resource_link 4b1303fa-77b4-d6d1-6a05-21539977e4a7 "This Course and The U.S. Energy System (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 27a74263-0574-4f3d-5b8d-639be4add56c "Comparative Energy Systems (PDF - 2.6MB)" %}}
+{{% resource_link 27a74263-0574-4f3d-5b8d-639be4add56c "Comparative Energy Systems (PDF - 2.6MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
