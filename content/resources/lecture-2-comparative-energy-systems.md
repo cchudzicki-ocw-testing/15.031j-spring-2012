@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture provides a general overview of various energy systems on a global scale as well as a comparison of energy consumption in correlation to GDP, industry, and recent growth.
 
 **Instructor:** Richard Schmalensee
+

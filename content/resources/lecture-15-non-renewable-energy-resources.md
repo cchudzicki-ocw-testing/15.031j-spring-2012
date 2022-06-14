@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on the state of non-renewable energy on the global market. Classic hotelling theory is covered in the beginning, and then oil, coal, and natural gas markets are analyzed over the across geographies and time.
 
 **Instructor:** Richard Schmalensee
+

@@ -29,3 +29,4 @@ video_metadata:
 **Description:** This lecture frames decisions affecting energy use as framed by social science and factors that influence decision-making. The lecture makes use of a research study conducted on towel reuse, and a class discussion of group identities.
 
 **Instructor:** Susan Silbey
+

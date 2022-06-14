@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on hydraulic cracking, or fracking, and its environmental consequences and impact on policy as seen from the perspectives of key stakeholders. Discussion includes a thought experiment about having a shale resource in Massachusetts.
 
 **Instructor:** Richard Schmalensee
+

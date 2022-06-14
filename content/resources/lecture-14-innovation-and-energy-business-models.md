@@ -28,3 +28,4 @@ video_metadata:
 **Description:** The lecture highlights how technology maturity, scale, scope, and capabilities of innovations affect the business model for that new innovation. Discussion about energy at different phases of innovation ensues.
 
 **Instructor:** Donald Lessard
+

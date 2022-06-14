@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/15-031j-energy-decisions-markets-and-policies-spring-2012/d04597d2b82e7e14a1024649651b558c_6nhKL-AuvY4.srt
+file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/d04597d2b82e7e14a1024649651b558c_6nhKL-AuvY4.srt
 file_type: application/x-subrip
 learning_resource_types: []
 ocw_type: OCWFile

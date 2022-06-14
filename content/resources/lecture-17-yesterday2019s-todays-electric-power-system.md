@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on electric power systems, grid architecture, and transmission systems. Baseload units and peaking units are compared, as are various market models, and state and federal regulations.
 
 **Instructor:** Richard Schmalensee
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture introduces how economic concepts including net present value, discount rates, and time value impact energy services and the energy market. Risk-return analyses and investment strategies are also discussed.
 
 **Instructor:** Richard Schmalensee
+

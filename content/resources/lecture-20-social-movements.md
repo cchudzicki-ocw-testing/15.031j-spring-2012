@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture explores drivers of movements, such as interest groups and changing preferences, and how they affect environmental movements as well as the formation of public policy, efforts, and parties.
 
 **Instructor:** Richard Schmalensee
+

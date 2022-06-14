@@ -28,3 +28,4 @@ video_metadata:
 **Description**: This lecture provides an overview and motivations for the class, as well as an introduction to the U.S. energy system. A brief history of the state of U.S. energy is given through a series of graphs and data.
 
 **Instructor**: Richard Schmalensee
+

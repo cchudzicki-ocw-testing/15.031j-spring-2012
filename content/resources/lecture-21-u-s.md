@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on the politics of regulation through a series of case discussion surrounding the EPA and setting emissions standards in response to air pollution, coal emissions, and acid rain.
 
 **Instructor:** Richard Schmalensee
+

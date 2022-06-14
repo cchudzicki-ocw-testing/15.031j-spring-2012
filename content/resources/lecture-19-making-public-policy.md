@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on the development of public policy and the roles that interest groups and factions play in governance. The creation of America's democracy is used as an example, followed by EPA regulation.
 
 **Instructor:** Richard Schmalensee
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** The lecture focuses on how to estimate, calculate, and predict energy demand. Considerations for short-run and long-run demand are taken, and the efficiency paradox is also discussed.
 
 **Instructor:** Richard Schmalensee
+

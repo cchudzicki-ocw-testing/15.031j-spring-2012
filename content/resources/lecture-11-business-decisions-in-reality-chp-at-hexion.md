@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture features a facilitated discussion of combined heat and power (CHP) and the Hexion case study, which challenges students to consider a sample net present value analysis and its implications.
 
 **Instructor:** Richard Schmalensee
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture features a guest speaker, Bob DiMatteo, the CEO and chairman of MTPV. He speaks about micron-gap thermalphotovoltaics and entrepreneuship in the energy field. Later, a short lecture is given on the green growth model.
 
 **Instructor:** Bob DiMatteo, Richard Schmalensee
+

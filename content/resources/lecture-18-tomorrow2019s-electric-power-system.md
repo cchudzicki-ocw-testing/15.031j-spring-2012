@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on future challenges that await grid technology on the policy, economic, and technological fronts. RD&D and dynamic pricing are offered as avenues toward solutions, though the primary issues still rests in policy and regulation.
 
 **Instructor:** Richard Schmalensee
+

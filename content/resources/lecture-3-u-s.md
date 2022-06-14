@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on energy issues during the recent history of the U.S., ranging from the creation of the EPA to the problems faced by the Obama administration. A computer model is used to demonstrate projections and issues surrounding negotiations.
 
 **Instructor:** Richard Schmalensee
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture presents the issues of time-scales and uncertainties as barriers to climate change. Three views on discounting are discussed as well as strategies for reducing global costs, adapting to new technologies, and reducing CO{{< sub "2" >}} emissions.
 
 **Instructor:** Richard Schmalensee, Susan Solomon
+

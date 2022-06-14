@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on business strategies, drivers of competitive advantage, and factors that affect product value. A facilitated discussion of the Husky case highlights value-based and differentiating strategies.
 
 **Instructor:** Richard Schmalensee
+

@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture features a facilitated case discussion of barriers against organizational change as present in the Biodiesel at MIT case study.
 
 **Instructor:** Richard Schmalensee
+

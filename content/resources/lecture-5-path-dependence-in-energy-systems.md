@@ -28,3 +28,4 @@ video_metadata:
 **Description:** This lecture focuses on path dependence and the obstacles discouraging changes in energy systems. Several examples of energy systems are given, including those unable to be changed as well as those that were changed in light of path dependence.
 
 **Instructor:** Richard Schmalensee
+
