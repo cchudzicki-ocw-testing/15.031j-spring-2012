@@ -1,5 +1,7 @@
 ---
 content_type: video_gallery
+description: This section contains full-length video lectures that capture class lectures
+  and discussions.
 is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
