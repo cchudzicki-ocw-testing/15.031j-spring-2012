@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the the list of required and recommended readings
+  for each lecture session, and information on commonly references texts.
 draft: false
 learning_resource_types:
 - Readings
