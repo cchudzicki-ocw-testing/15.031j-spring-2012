@@ -6,6 +6,7 @@ file: /courses/15-031j-energy-decisions-markets-and-policies-spring-2012/4354c5c
 file_type: application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
 learning_resource_types:
 - Recitations
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Recitations
 parent_type: CourseSection
